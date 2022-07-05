@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 175px;
 }
 .half-width{
     width: 50%;
@@ -34,5 +35,10 @@ section{
 }
 
 .dream-big{
-    margin-top: 75px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.sec-para{
+    padding-right: 200px;
 }
